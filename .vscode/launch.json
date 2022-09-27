@@ -15,7 +15,7 @@
             "name": "Python: main",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}/Scientific_Computing_with_Python/main.py",
+            "program": "${workspaceFolder}/Time_Calculator/main.py",
             "console": "integratedTerminal"
         }
     ]
